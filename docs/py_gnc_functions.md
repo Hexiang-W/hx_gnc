@@ -1,6 +1,5 @@
-# [GNC Functions (Python)](../src/iq_gnc/py_gnc_functions.py)
+# [GNC Functions (Python)](../src/hx_gnc/py_gnc_functions.py)
 
-![iq](./imgs/iq.JPG)
 
 The python version of the API has been designed to work as seamlessly and easily as the c++ version of the API. But since the python version has been implemented with classes the user should create an object for the API. 
 
