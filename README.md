@@ -1,5 +1,7 @@
 # hx_gnc
 
+How'yall doing! This is Haysen, welcome to my gnc repository!
+
 This package hosts a collection of software designed to help drone developers make their application come to life. The code in this repo is to explain how to set up your dev enviorment as well as teaches basic drone programming fundamentals. 
 
 ---
